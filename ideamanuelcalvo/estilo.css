@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&family=Oswald:wght@400;700&family=Roboto+Slab:wght@300;500;600&display=swap');
+
+body {
+    background-color: #808080;
+    padding: 0%;
+    margin: 0%;
+}
+
+.calculadora {
+    display: inline-block;
+    display: center;
+    background-color: white;
+}
+
+.calculadora p {
+    display: flex;
+    text-align: center;
+    color: black;
+}
